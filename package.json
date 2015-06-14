@@ -1,5 +1,6 @@
 {
   "name": "angular-input-modified",
+  "version": "2.2.1",
   "devDependencies": {
     "del": "~0",
     "gulp": "~3",
